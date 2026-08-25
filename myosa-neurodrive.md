@@ -201,7 +201,7 @@ Install the ESP32 board package in Arduino IDE, add the libraries above through 
   |- blynk-dashboard.jpg
   |- neurodrive-demo.mp4
   |- LICENSE
-  `- neurodrive-main.ino
+  `- myosa-neurodrive-blynk.ino
 ```
 
 ## License
