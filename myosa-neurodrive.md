@@ -64,7 +64,7 @@ Because the approach requires no image capture and no wearable hardware, it is i
 </p>
 
 ### **Videos**
-<video src="github.com/user-attachments/assets/e728a9b5-d94d-4364-aadc-bcb666c5e437" controls width="100%">
+<video src="https://github.com/HeeraHaridaas/myosa-neurodrive/issues/1#issue-5248998079" controls width="100%">
 </video>
 
 
