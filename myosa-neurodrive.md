@@ -65,6 +65,15 @@ Because the approach requires no image capture and no wearable hardware, it is i
 
 ### Videos
 
+
+<video width="100%" style="max-width:800px; display:block; margin:20px auto;" controls muted autoplay loop playsinline>
+  
+  <source src="/assets/images/myosa-neurodrive/neurodrive-demo.mp4" type="video/mp4">
+  
+</video>
+
+
+
 <video controls width="100%">
   
   <source src="/assets/video/myosa-neurodrive/neurodrive-demo.mp4" type="video/mp4">
