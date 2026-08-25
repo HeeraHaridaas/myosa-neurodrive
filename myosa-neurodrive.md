@@ -66,13 +66,9 @@ Because the approach requires no image capture and no wearable hardware, it is i
 ### **Videos**
 
 <video controls width="100%"> 
-  <source src="/neurodrive-demo.mp4" type="video/mp4">  
+  <source src="https://github.com/user-attachments/assets/e728a9b5-d94d-4364-aadc-bcb666c5e437" type="video/mp4">  
 </video>
----
-<video controls width="100%" style="max-width: 800px; display: block; margin: 20px auto;" muted autoplay loop playsinline>
-  <source src="/assets/images/myosa-neurodrive/neurodrive-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ## Features (Detailed)
 
