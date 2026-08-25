@@ -66,7 +66,9 @@ Because the approach requires no image capture and no wearable hardware, it is i
 ### Videos
 
 <video controls width="100%">
+  
   <source src="/assets/video/myosa-neurodrive/neurodrive-demo.mp4" type="video/mp4">
+  
 </video>
 
 ## Features (Detailed)
