@@ -25,7 +25,7 @@ We express our sincere gratitude to our Faculty Mentor, Dr. Nelwin Raj N R, Assi
 
 We thank the Department of Electronics and Communication Engineering and the management of Sree Chitra Thirunal College of Engineering for providing the resources and environment needed to build and test NeuroDrive.
 
-We are grateful to the organizers of IEEE International MYOSA Event 6.0 and the IEEE Sensors Council for creating a platform that connects academic learning with practical engineering problems in road safety.
+We are grateful to the organizers of IEEE International MYOSA Event 6.0 and the IEEE Sensors Council for creating a platform that connects academic learning with practical engineering problems.
 
 Finally, we thank our teammates for the many hours spent calibrating sensors, debugging firmware, and refining the vigilance scoring logic that turned this from an idea into a working prototype.
 
@@ -224,6 +224,6 @@ This project was developed as a functional prototype for IEEE International MYOS
 - Evaluating machine learning models trained on larger behavioural datasets to refine vigilance estimation
 - Adapting the sensing framework for operator monitoring in industrial vehicles and logistics fleets
 
-Team NeuroDrive
-Sree Chitra Thirunal College of Engineering
+Team NeuroDrive,
+Sree Chitra Thirunal College of Engineering,
 Thiruvananthapuram, Kerala, India
