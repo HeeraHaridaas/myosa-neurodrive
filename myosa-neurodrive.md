@@ -220,6 +220,6 @@ This project was developed as a functional prototype for IEEE International MYOS
 - Evaluating machine learning models trained on larger behavioural datasets to refine vigilance estimation
 - Adapting the sensing framework for operator monitoring in industrial vehicles and logistics fleets
 
-Team NeuroDrive
-Sree Chitra Thirunal College of Engineering
+Team NeuroDrive,
+Sree Chitra Thirunal College of Engineering,
 Thiruvananthapuram, Kerala, India
