@@ -25,18 +25,6 @@ We are grateful to the organizers of IEEE International MYOSA Event 6.0 and the 
 
 Finally, we thank our teammates for the many hours spent calibrating sensors, debugging firmware, and refining the vigilance scoring logic that turned this from an idea into a working prototype.
 
-## Team Details
-
-| Role | Name | Year |
-|---|---|---|
-| Team Lead | Heera Haridas | 2 |
-| Member | Lamiya Shifa | 2 |
-| Member | Niharika N | 2 |
-
-Institution: Sree Chitra Thirunal College of Engineering, Thiruvananthapuram
-Department: Electronics and Communication Engineering
-Faculty Mentor: Dr. Nelwin Raj N R, Assistant Professor
-
 ## Overview
 
 Road accidents caused by reduced driver vigilance are a persistent transportation safety problem, particularly during long-distance and night-time travel. Existing driver monitoring solutions typically rely on in-cabin cameras or wearable devices, which raise privacy concerns, increase system cost, and are difficult to retrofit into ordinary vehicles.
