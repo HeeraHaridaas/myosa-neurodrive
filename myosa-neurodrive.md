@@ -63,9 +63,7 @@ Because the approach requires no image capture and no wearable hardware, it is i
   <i>Blynk cloud dashboard showing real-time vigilance status and sensor telemetry</i>
 </p>
 
-### Videos
 ### **Videos**
-
 
 <video controls width="100%">
   <source src="/neurodrive-demo.mp4" type="video/mp4">
