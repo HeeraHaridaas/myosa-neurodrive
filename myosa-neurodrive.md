@@ -182,6 +182,6 @@ Developed by Team NeuroDrive for IEEE International MYOSA Event 6.0.
 
 This project was developed as a functional prototype for IEEE International MYOSA Event 6.0. Planned future work includes integrating the ambient-light engagement index into the DVS formula, adding GPS-based ETA and family notification features to the Blynk dashboard, and evaluating machine learning models for improved vigilance classification across different drivers.
 
-Team NeuroDrive
-Sree Chitra Thirunal College of Engineering
+Team NeuroDrive,
+Sree Chitra Thirunal College of Engineering,
 Thiruvananthapuram, Kerala, India
