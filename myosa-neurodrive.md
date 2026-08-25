@@ -10,7 +10,7 @@ Driver Safety
 Sensor Fusion
 MYOSA
 ---
-> Your steering wheel already knows when you're losing focus — NeuroDrive just listens.
+> A privacy-preserving, camera-free system for real-time driver vigilance monitoring using multi-sensor fusion on the MYOSA platform.
 ---
 Acknowledgements
 We're grateful to the IEEE Sensors Council and the MYOSA/MakeSense Edutech team for organizing IEEE International MYOSA Event 6.0 and for building a platform that made rapid, low-cost sensor fusion prototyping possible. Special thanks to our faculty mentor, Dr. Nelwin Raj N R, Assistant Professor at Sree Chitra Thirunal College of Engineering, Thiruvananthapuram, for his guidance throughout the design and testing of NeuroDrive.
