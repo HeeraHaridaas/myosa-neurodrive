@@ -2,7 +2,6 @@
 publishDate: 2026-08-25T00:00:00Z
 title: "NeuroDrive: Vehicle-Interaction-Based Driver Vigilance Estimation Using Multi-Sensor Fusion on the MYOSA Platform"
 excerpt: "A privacy-preserving driver monitoring system that estimates vigilance from steering behaviour and environmental sensing, built entirely on the MYOSA (ESP32) platform with no cameras or wearables required."
-image: "/assets/images/myosa-neurodrive/blynk-dashboard.jpg"
 tags:
   - IoT
   - Embedded Systems
@@ -15,7 +14,7 @@ A privacy-preserving driver monitoring system built entirely on steering behavio
 
 ---
 <p align="center">
-  <img src="/assets/images/myosa-neurodrive/neurodrive-cover.jpg" alt="Blynk Dashboard Cover" width="100%">
+  <img src="/assets/images/myosa-neurodrive/neurodrive-cover.jpg" alt="Blynk Dashboard Cover" width="800">
 </p>
 
 
@@ -67,7 +66,7 @@ Because the approach requires no image capture and no wearable hardware, it is i
 ### Videos
 
 <video controls width="100%">
-  <source src="/neurodrive-demo.mp4" type="video/mp4">
+  <source src="/assets/video/myosa-neurodrive/neurodrive-demo.mp4" type="video/mp4">
 </video>
 
 ## Features (Detailed)
