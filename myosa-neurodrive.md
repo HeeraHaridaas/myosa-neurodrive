@@ -14,6 +14,10 @@ tags:
 A privacy-preserving driver monitoring system built entirely on steering behaviour and environmental sensing, requiring no cameras, wearables, or internet-dependent infrastructure.
 
 ---
+<p align="center">
+  <img src="/assets/images/myosa-neurodrive/neurodrive-cover.jpg" alt="Blynk Dashboard Cover" width="100%">
+</p>
+
 
 ## Acknowledgements
 
