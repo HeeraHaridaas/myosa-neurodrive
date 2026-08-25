@@ -64,9 +64,7 @@ Because the approach requires no image capture and no wearable hardware, it is i
 </p>
 
 ### **Videos**
-
-<video controls width="100%"> 
-  <source src="https://github.com/user-attachments/assets/e728a9b5-d94d-4364-aadc-bcb666c5e437" type="video/mp4">  
+<video src="github.com/user-attachments/assets/e728a9b5-d94d-4364-aadc-bcb666c5e437" controls width="100%">
 </video>
 
 
