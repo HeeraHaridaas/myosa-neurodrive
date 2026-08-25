@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3GB4M8Q6c"
+#define BLYNK_TEMPLATE_ID "template id"
 #define BLYNK_TEMPLATE_NAME "NeuroDrive"
-#define BLYNK_AUTH_TOKEN "okzbOzk1bPMiyA6biLCxkGT46ZCvN6ct"
+#define BLYNK_AUTH_TOKEN "auth_token"
 
 // #define BLYNK_PRINT Serial
 
@@ -9,8 +9,8 @@
 #include <BlynkSimpleEsp32.h>
 #include <myosa.h>
 
-char ssid[] = "Galaxy M13 C71B";
-char pass[] = "ylkd4652";
+char ssid[] = "wifi-name";
+char pass[] = "wifi-password";
 
 #define BUZZER_PIN 16
 #define SEA_LEVEL_PRESSURE 1013.25 // Standard baseline for altitude (hPa)[cite: 1]
