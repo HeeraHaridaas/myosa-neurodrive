@@ -64,8 +64,10 @@ Because the approach requires no image capture and no wearable hardware, it is i
 </p>
 
 ### **Videos**
+<p align="center">
 <video src="https://github.com/HeeraHaridaas/myosa-neurodrive/issues/1#issue-5248998079" controls width="100%">
 </video>
+</p>
 
 
 ## Features (Detailed)
